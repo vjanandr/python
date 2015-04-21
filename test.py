@@ -1,0 +1,1 @@
+print("Is digit {}".format("123".isdigit()))
